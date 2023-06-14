@@ -1,0 +1,4 @@
+﻿  Lab1dop.cpp
+F:\Ptojekt\SecondSemestr\LAB1DOP\Lab1dop\Lab1dop\Lab1dop.cpp(38,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\Ptojekt\SecondSemestr\LAB1DOP\Lab1dop\Lab1dop\Lab1dop.cpp(58,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab1dop.vcxproj -> F:\Ptojekt\SecondSemestr\LAB1DOP\Lab1dop\Debug\Lab1dop.exe
