@@ -1,0 +1,20 @@
+﻿  Lab1.cpp
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(47,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(52,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(60,33): warning C4101: ex: неиспользованная локальная переменная
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(90,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(95,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(103,33): warning C4101: ex: неиспользованная локальная переменная
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(140,33): warning C4101: ex: неиспользованная локальная переменная
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(226,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(231,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(239,33): warning C4101: ex: неиспользованная локальная переменная
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(297,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(302,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(310,33): warning C4101: ex: неиспользованная локальная переменная
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(351,26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(353,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(358,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(366,33): warning C4101: ex: неиспользованная локальная переменная
+F:\Ptojekt\3 SEMESTR\Lab1\Lab1\Lab1.cpp(433,29): warning C4101: ex: неиспользованная локальная переменная
+  Lab1.vcxproj -> F:\Ptojekt\3 SEMESTR\Lab1\Debug\Lab1.exe
