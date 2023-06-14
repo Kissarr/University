@@ -1,0 +1,12 @@
+﻿  Lab2.cpp
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(102,15): warning C4101: s: неиспользованная локальная переменная
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(155,12): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(186,11): warning C4101: a: неиспользованная локальная переменная
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(57): warning C4716: f2: должна возвращать значение
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(72): warning C4716: f3: должна возвращать значение
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(125): warning C4716: f7: должна возвращать значение
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(136): warning C4716: f8: должна возвращать значение
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(142): warning C4716: f9: должна возвращать значение
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(115): warning C4716: f6: должна возвращать значение
+F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Lab2\Lab2.cpp(147): warning C4716: f10: должна возвращать значение
+  Lab2.vcxproj -> F:\Ptojekt\InformatikaFirstSemestr\Lab2\Lab2\Debug\Lab2.exe

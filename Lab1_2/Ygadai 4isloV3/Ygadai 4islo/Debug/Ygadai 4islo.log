@@ -1,0 +1,15 @@
+﻿  Ygadai 4islo.cpp
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(12,10): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(40,7): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(40,12): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(42,25): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(77,21): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(87,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(119,7): warning C4013: main: нет определения; предполагается "extern" с возвратом типа "int"
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(211,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(113): warning C4715: Bid: значение возвращается не при всех путях выполнения
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(90): warning C4715: ScoreCount: значение возвращается не при всех путях выполнения
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(70): warning C4715: CountTry: значение возвращается не при всех путях выполнения
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(56): warning C4715: Diapozon: значение возвращается не при всех путях выполнения
+F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Ygadai 4islo\Ygadai 4islo.cpp(125): warning C4716: End: должна возвращать значение
+  Ygadai 4islo.vcxproj -> F:\Ptojekt\InformatikaFirstSemestr\Lab1_2\Ygadai 4isloV3\Debug\Ygadai 4islo.exe
