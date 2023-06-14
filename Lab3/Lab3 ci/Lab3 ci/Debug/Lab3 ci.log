@@ -1,0 +1,22 @@
+﻿  Lab3 ci.cpp
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(50,33): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(51,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(51,27): error C2065: endl: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(118,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(119,2): error C2065: cin: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(120,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(120,10): error C2065: endl: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(121,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(122,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(122,10): error C2065: endl: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(125,3): error C2065: cin: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(128,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(128,10): error C2065: endl: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(129,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(129,60): error C2065: endl: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(131,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(131,10): error C2065: endl: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(136,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(136,10): error C2065: endl: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(137,2): error C2065: cout: необъявленный идентификатор
+F:\Ptojekt\SecondSemestr\Lab3\Lab3 ci\Lab3 ci\Lab3 ci.cpp(137,83): error C2065: endl: необъявленный идентификатор
